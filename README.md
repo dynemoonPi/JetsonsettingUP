@@ -29,7 +29,6 @@ The NVIDIA Jetson Nano Developer KIt it's a small computer but yet very powerful
 <li>Connect the USB keyboard and mouse.</li>
 <li>Connect the provided power supply. The Jetson Xavier NX Developer Kit will power on and boot automatically.</li>
 <li>Create username, password,computer name and Log in</li>
-<img src="![image](https://user-images.githubusercontent.com/68808262/149737614-858ad499-1e9a-4d2e-bbe2-2ebcff6bddcd.png)
-" alt="boot image">
+<img src="https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsonNX/getting_started/Getting_started-Jetson_Xavier_NX-screenshot.png" alt="boot image">
 
 </ol>
