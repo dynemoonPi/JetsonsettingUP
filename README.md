@@ -11,7 +11,7 @@ The NVIDIA Jetson Nano Developer KIt it's a small computer but yet very powerful
 
 # for windows OS:
 
-<li><a href="https://developer.nvidia.com/embedded/downloads">, and note where it was saved on the computer.</a></li>
+<li><a href="https://developer.nvidia.com/embedded/downloads">Download the Jetson Nano Developer Kit SD Card Image,and note where it was saved on the computer.</a></li>
 
 <li>Format your microSD card using SD Memory Card Formatter from the SD Association.
 <li>Download, install, and launch SD Memory Card Formatter for Windows.</li>
