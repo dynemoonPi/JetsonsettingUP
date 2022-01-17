@@ -24,4 +24,12 @@ The NVIDIA Jetson Nano Developer KIt it's a small computer but yet very powerful
 <p>After Etcher finishes, Windows may let you know it doesn’t know how to read the SD Card. Just click Cancel and remove the microSD card.</p>
 <p>After your microSD card is ready, insert your microSD card </p>
 </li>
+<li>Power on your computer display and connect it.</li>
+
+<li>Connect the USB keyboard and mouse.</li>
+<li>Connect the provided power supply. The Jetson Xavier NX Developer Kit will power on and boot automatically.</li>
+<li>Create username, password,computer name and Log in</li>
+<img src="![image](https://user-images.githubusercontent.com/68808262/149737614-858ad499-1e9a-4d2e-bbe2-2ebcff6bddcd.png)
+" alt="boot image">
+
 </ol>
